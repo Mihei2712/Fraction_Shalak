@@ -1,11 +1,8 @@
 #include"Function.h"
 
-
 //#define METHODS_CHECK
 //#define OPERATORS_CHECK
 #define TYPE_CONVERSIONS
-
-
 
 void main()
 {
@@ -66,4 +63,3 @@ cout << A << endl;*/
 #endif
 }
 
-//Single argument constructor
